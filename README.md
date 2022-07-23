@@ -1,5 +1,16 @@
 # ProjetoVendas
 
+For run project install:
+@angular/materal
+ng2-charts
+json-server
+<hr>
+command for run project:
+<p>>npm start</p>
+<p>>json-server --watch src/api/db.json</p>
+
+<hr>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
 ## Development server
